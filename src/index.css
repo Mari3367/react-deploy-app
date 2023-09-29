@@ -17,3 +17,12 @@ nav {
 nav a {
   margin-right: 2rem;
 }
+
+button.light {
+  background-color: white;
+}
+
+button.dark {
+  background-color: black;
+  color: white;
+}
