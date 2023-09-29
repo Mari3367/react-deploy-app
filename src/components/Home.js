@@ -2,6 +2,8 @@ import React from 'react';
 
 export default function Home() {
   return (
-    <div> This is Home Section</div>
+    <div>
+      <h1 className='home-heading'>This is Home Section</h1>
+    </div>
   )
 }

@@ -18,6 +18,10 @@ nav a {
   margin-right: 2rem;
 }
 
+.home-heading {
+  color: purple;
+}
+
 button {
   margin-top: 2rem;
 }
