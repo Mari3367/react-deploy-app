@@ -10,7 +10,7 @@ body {
 nav {
   display: flex;
   justify-content:start;
-  background-color: aquamarine;
+  background-color: rgb(249, 184, 249);
   padding: 1rem;
 }
 
@@ -18,8 +18,11 @@ nav a {
   margin-right: 2rem;
 }
 
-button.light {
+button {
   margin-top: 2rem;
+}
+
+button.light {
   background-color: white;
 }
 
