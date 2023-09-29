@@ -23,6 +23,10 @@ nav a {
   border: 1px solid black;
 }
 
+.page-heading {
+  color: rgb(0, 117, 128);
+}
+
 button {
   margin-top: 2rem;
 }
